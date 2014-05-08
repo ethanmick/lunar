@@ -1,0 +1,28 @@
+{
+  "name": "Lunar",
+  "version": "0.1.0",
+  "description": "A small and fast profiler for Javascript.",
+  "main": "lunar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Wayfarer247/lunar.git"
+  },
+  "keywords": [
+    "Test",
+    "Code",
+    "Coverage"
+  ],
+  "dependencies": {
+    "walk": "2.3.1",
+    "q": "1.0.1"
+  },
+  "author": "Ethan Mick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wayfarer247/lunar/issues"
+  },
+  "homepage": "https://github.com/Wayfarer247/lunar"
+}
